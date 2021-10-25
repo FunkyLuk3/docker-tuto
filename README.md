@@ -17,7 +17,7 @@ In the docker desktop application a container should have appeared. If so, the i
 
 To start, you will need to create a Dockerfile in a folder.
 
-![image](./image/dockerfile.png)
+![image](https://github.com/lucEnee/docker-tuto/blob/main/image/dockerfile.PNG)
 
 Once the Dockerfile is created, you can open it with your favorite editor (VSCode has some extensions for Dockers).
 There are several docker commands. We will look at the most important :
